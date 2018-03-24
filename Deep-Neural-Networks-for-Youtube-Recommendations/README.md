@@ -1,4 +1,4 @@
-Pour cette toute première session nous avons sélectionné pour vous un papier sur le Deep Learning pour les systèmes de recommandation écrit par l’équipe de recherche de Google https://research.google.com/pubs/pub45530.html
+Pour cette toute première session nous avons sélectionné pour vous un papier sur le Deep Learning pour les systèmes de recommandation écrit par l’équipe de recherche de Google [PDF](https://github.com/Big-Data-Data-Science-Montpellier/Journal-Club-Montpellier/blob/master/Deep-Neural-Networks-for-Youtube-Recommendations/DeepNeuralNetworksForYoutubeRecommendations.pdf)
 
 La vidéo que nous proposons de regarder ensemble au début de la session est la suivante : https://www.youtube.com/watch?v=WK_Nr4tUtl8
 
