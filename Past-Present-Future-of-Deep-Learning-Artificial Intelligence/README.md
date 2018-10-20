@@ -24,6 +24,12 @@ Voici le site personnel de Juergen Schmidhuber où vous retrouverez une compilat
 
 http://people.idsia.ch/~juergen/
 
+* Exemples des articles : 
+
+[LSTM:A Search Space Odyssey](https://github.com/Big-Data-Data-Science-Montpellier/Journal-Club-Montpellier/blob/master/Past-Present-Future-of-Deep-Learning-Artificial%20Intelligence/LSTM-A-Search-Space-Odyssey.pdf)
+
+[LONG SHORT TERM MEMORY](https://github.com/Big-Data-Data-Science-Montpellier/Journal-Club-Montpellier/blob/master/Past-Present-Future-of-Deep-Learning-Artificial%20Intelligence/LONG-SHORT-TERM-MEMORY.pdf)
+
 Juergen a également donné de nombreux TedX Talks présentant son parcours et ses recherches :
 
 http://people.idsia.ch/~juergen/videos.html
